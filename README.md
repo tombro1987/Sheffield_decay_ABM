@@ -3,4 +3,4 @@ Final code (upon first submission) from thesis to create agent-based models to a
 
 Final code for both of the agent-based models ('Sheffield_East' and 'Sheffield_West') used to test a neighbourhood based theoretical framework
 (Macintyre et al, 2002) on the effects of tooth decay in neighbourhoods in Sheffield. The agent population was created using the code for
-a spatial microsimualtion model, which can be found at - https://github.com/tombro1987/SMStoothdecay. 
+a spatial microsimualtion model, which can be found at - https://github.com/tombro1987/SMStoothdecay. Pathfinding algorithm adapted from work by Zhou (2016) - http://geospatialcss.blogspot.co.uk/2016/01/path-finding-model-using-a-star.html. 
